@@ -1,0 +1,19 @@
+{
+  "uuid": "187b5a8f-4ada-498e-abe1-7aa9e0b3a8da",
+  "shortName": "shadow-text-layer-example",
+  "longName": "shadow-text-layer-example",
+  "companyName": "Brennan Roberts",
+  "versionLabel": "0.1",
+  "versionCode": 1,
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": []
+  },
+  "targetPlatforms": [
+    "basalt"
+  ],
+  "sdkVersion": "3"
+}
